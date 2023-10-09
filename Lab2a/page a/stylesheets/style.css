@@ -1,0 +1,179 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-family: sans-serif Tahoma Arial;
+
+}
+
+#section_normal_1{
+    height: auto;
+    width: auto;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+}
+#section_normal_4_2{
+    padding-right: 300px;
+    padding-left: 220px;
+    background-color: #333333;
+}
+.sixteen, .column{
+    display: flex;
+    justify-content: space-between;
+}
+.htext_style span{
+    opacity: 0.6;
+
+}
+.column, .alpha{
+    float: left;
+}
+.column, .omega{
+    margin: 20px;
+    margin-top: 5px;
+}
+
+.column, .alpha a{
+    padding-top: 15px;
+}
+.column, .omega a {
+    display: flex;
+    padding: 0 5px;
+    justify-content: center;
+}
+
+.pix_text{
+    padding: 10px;
+    text-align: center;
+    justify-items: center;
+}
+
+.big_title{
+    margin: 5px;
+    font-size: 40px;
+}
+.container{
+    padding-top: 16px;
+}
+.light_gray{
+    color: #989898;
+}
+.bold_text{
+    color: #FFFFFF;
+}
+.blue_bg{
+    height: 60px;
+    width: 180px;
+    background-color: #2DC0E8;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.pix_button span {
+    display: inline-block;
+    text-align: center;
+    line-height: 55px;
+}
+#section_normal_6{
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: #EEEEEE;
+}
+.envato_unbounce{
+    padding-bottom: 48px;
+}
+.L1_style{
+    text-align: center;
+
+}
+
+.box_1{
+    display: flex;
+    width: 450px;
+    height: 148px;
+    background-color: #F5F5F5;
+}
+.box_2{
+    display: flex;
+    width: 450px;
+    height: 148px;
+    background-color: #F5F5F5;
+}
+.logo_style{
+    margin: 10px;
+    border-radius: 50px;
+}
+.box_1 p{
+    opacity: 0.5;
+}
+.box_2 p{
+    opacity: 0.5;
+}
+.stbox{
+    display: flex;
+    padding: 0 10px;
+}
+.b_style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F5F5F5;
+}
+.blue_text{
+    color: #289ebe;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.L2_style{
+    text-align: center;
+    opacity: 0.3;
+}
+.txt_style{
+    font-size: 18px;
+    vertical-align: middle;
+
+}
+.env_st span{
+    font-size: 22px;
+    color: #64a0ee;
+    font-weight: 900;
+}
+#section_agency_5{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.center_text{
+    display: block;
+    text-align: center;
+}
+.f1_style {
+    padding-top: 40px;
+    color: #5B9A68;
+    font-size: 30px;
+}
+.f2_style{
+    padding: 40px 200px;
+    opacity: 0.7;
+}
+.get_2_btn a{
+    text-decoration: none;
+    color: #5B9A68;
+    border: 3px solid #5B9A68;
+    padding: 20px;
+}
+.rights_st{
+    padding-top: 60px;
+    opacity: 0.7;
+}
+.pixfort_st{
+    color: #5B9A68;
+    font-weight: bolder;
+}
+.center_btn{
+    padding: 40px;
+}
+
+
+
+
+
